@@ -1,4 +1,11 @@
 # Compiled class file
+/target/*
+/.idea/*
+*.iml
+*.log
+*.tmp
+*.bak
+*.swp
 *.class
 
 # Log file
