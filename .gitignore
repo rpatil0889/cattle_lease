@@ -5,7 +5,6 @@
 *.log
 *.tmp
 *.bak
-*.swp
 *.class
 
 # Log file
